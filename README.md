@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter , AI**
 
-- 👨‍💻 All of my projects are available at [bilalattari.com](bilalattari.com)
+- 👨‍💻 All of my projects are available at [shaiderali.com](shaiderali.com])
 
 - 💬 Ask me about **React , React Native.*haider ali*
 
